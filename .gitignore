@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Large files (DO NOT PUSH)
+similarity.pkl
+*.pkl
+*.csv
+
+# OS
+Thumbs.db
+.DS_Store
